@@ -1,13 +1,13 @@
-# Share-Trading-Web-Application
+# Share Trading Web Application
 
-This is a beginner-friendly web-based trading app.
+## Overview
+This is a web-based trading system where users can buy and sell shares.
 
 ## Features
 - User Login/Register
 - Buy/Sell Shares
 - Portfolio Tracking
 
-## Technologies
-- Java
-- JSP/Servlet
+## Tech Stack
+- Java (JSP/Servlet)
 - MySQL
