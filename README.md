@@ -56,4 +56,4 @@ This project includes both **User and Admin modules** to simulate a real-world t
 ---
 
 ## 👨‍💻 Author
-Arpit Sahu<img width="1920" height="1020" alt="Screenshot 2026-04-04 025827" src="https://github.com/user-attachments/assets/7f9174a1-3642-4d69-a22f-e96535d4e2ae" />
+Arpit Sahu
