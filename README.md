@@ -27,13 +27,13 @@ This project includes both **User and Admin modules** to simulate a real-world t
 ## 📸 Screenshots
 
 ### 🔐 Sign Up Page
-![Sign Up](images/signup.png)
+![Sign Up]<img width="1916" height="912" alt="Screenshot 2026-04-04 025935" src="https://github.com/user-attachments/assets/10f17cb2-3b52-4a7a-b52d-3773f953f613" />
 
 ### 👤 User Dashboard
-![User Dashboard](images/user-dashboard.png)
+![User Dashboard]<img width="1909" height="914" alt="Screenshot 2026-04-04 031000" src="https://github.com/user-attachments/assets/f70d950f-e836-4e97-b1ad-37fe7c129d9c" />
 
 ### 📊 Trading / Market View
-![Trading](images/trading.png)
+![Trading]<img width="1909" height="914" alt="Screenshot 2026-04-04 031308" src="https://github.com/user-attachments/assets/668ba757-257a-4403-b9d3-b07fa1413ba4" />
 
 ### 🛠️ Admin Panel
 ![Admin Panel](images/admin.png)
